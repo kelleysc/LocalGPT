@@ -1,0 +1,6 @@
+You: hi
+AI: Hello! How can I assist you today?
+
+You: whats the USA first president
+AI: The first president of the United States was **George Washington**, who served from April 30, 1789, to March 4, 1797. He was unanimously elected in the first United States presidential election in 1788–89 and was reelected in 1792. Washington is widely regarded as one of the most important figures in American history and is considered the "Father of His Country".
+
